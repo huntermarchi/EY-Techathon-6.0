@@ -13,7 +13,7 @@ Our solution accelerates drug repurposing research using a **multi-agent AI arch
 - **Harsh Gupta**  
 - **Shaik Khadeer**  
 - **Lakshya Sachan**  
-- **Aayushman Jodan**
+- **Aayushman Jadon**
 
 ---
 
